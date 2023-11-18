@@ -9,8 +9,9 @@ import java.time.Duration;
  * This class is a source of reactive streams used in the exercises.
  * DO NOT MODIFY THIS CODE
  *
- * @author koushikkothagal
+ * @author Deepak Solanki
  */
+
 public class ReactiveSources {
 
     public static Flux<String> stringNumbersFlux() {
